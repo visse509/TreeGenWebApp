@@ -1,0 +1,1 @@
+Warning: Mesh Cube without valid vertices (file: 'C:\Users\vincent\Documents\Visual Studio 2012\Projects\treeGenDLL\treeGenDLL\Test.fbx') [ (line 0)]

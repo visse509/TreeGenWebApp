@@ -1,0 +1,15 @@
+<root>
+  <axiomList>
+    <axiom value="x" />
+    <axiom value="f" />
+    <axiom value="x" />
+  </axiomList>
+  <productionRuleList>
+    <productionRule value="x">[rx]f[lx]f[rx]f[rx]f[lx]f[rx]</productionRule>
+    <productionRule value="l">l</productionRule>
+    <productionRule value="r">r</productionRule>
+    <productionRule value="[">[</productionRule>
+    <productionRule value="]">]</productionRule>
+    <productionRule value="f">f</productionRule>
+  </productionRuleList>
+</root>

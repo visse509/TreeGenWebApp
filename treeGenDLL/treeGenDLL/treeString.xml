@@ -1,0 +1,14 @@
+<root>
+  <axiomList>
+    	<axiom value="f" />
+	<axiom value="r" />
+  </axiomList>
+  <productionRuleList>
+    <productionRule value="x">f[lf[xf]]f[rf[x]]f[lf[xf]]f[rf[xf]]f[lf[xf]]f[rf[x]]f[lf[xf]]f[rf[xf]]</productionRule>
+    <productionRule value="l">l</productionRule>
+    <productionRule value="r">r</productionRule>
+    <productionRule value="[">[</productionRule>
+    <productionRule value="]">]</productionRule>
+    <productionRule value="f">f</productionRule>
+  </productionRuleList>
+</root>
