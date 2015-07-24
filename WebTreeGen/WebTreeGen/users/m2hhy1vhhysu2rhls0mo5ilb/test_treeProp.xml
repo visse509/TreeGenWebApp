@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<tree>
+  <nLevels>5</nLevels>
+  <levels>
+    <level number="1">
+      <nBranches>20</nBranches>
+      <rotationToRoot>0</rotationToRoot>
+      <nSegments>100</nSegments>
+      <length>1.5</length>
+      <nEdges>11</nEdges>
+      <girth>0.22</girth>
+      <nLeafs>0</nLeafs>
+    </level>
+    <level number="2">
+      <nBranches>20</nBranches>
+      <rotationToRoot>0</rotationToRoot>
+      <nSegments>40</nSegments>
+      <length>0.45</length>
+      <nEdges>6</nEdges>
+      <girth>0.2</girth>
+      <nLeafs>0</nLeafs>
+    </level>
+    <level number="3">
+      <nBranches>2</nBranches>
+      <rotationToRoot>0</rotationToRoot>
+      <nSegments>20</nSegments>
+      <length>0.35</length>
+      <nEdges>6</nEdges>
+      <girth>0.12</girth>
+      <nLeafs>0</nLeafs>
+    </level>
+    <level number="4">
+      <nBranches>0</nBranches>
+      <rotationToRoot>45</rotationToRoot>
+      <nSegments>2</nSegments>
+      <length>0.25</length>
+      <nEdges>4</nEdges>
+      <girth>0.07</girth>
+      <nLeafs>0</nLeafs>
+    </level>
+    <level number="5">
+      <nBranches>0</nBranches>
+      <rotationToRoot>45</rotationToRoot>
+      <nSegments>2</nSegments>
+      <length>0.050</length>
+      <nEdges>4</nEdges>
+      <girth>0.03</girth>
+      <nLeafs>2</nLeafs>
+    </level>
+    <level number="6">
+      <nBranches>0</nBranches>
+      <rotationToRoot>45</rotationToRoot>
+      <nSegments>2</nSegments>
+      <length>0.050</length>
+      <nEdges>4</nEdges>
+      <girth>0.0075</girth>
+      <nLeafs>5</nLeafs>
+    </level>
+    <level number="7">
+      <nBranches>0</nBranches>
+      <rotationToRoot>45</rotationToRoot>
+      <nSegments>2</nSegments>
+      <length>0.050</length>
+      <nEdges>4</nEdges>
+      <girth>0.0075</girth>
+      <nLeafs>5</nLeafs>
+    </level>
+    <level number="8">
+      <nBranches>0</nBranches>
+      <rotationToRoot>45</rotationToRoot>
+      <nSegments>2</nSegments>
+      <length>0.050</length>
+      <nEdges>4</nEdges>
+      <girth>0.0075</girth>
+      <nLeafs>5</nLeafs>
+    </level>
+    <level number="9">
+      <nBranches>0</nBranches>
+      <rotationToRoot>45</rotationToRoot>
+      <nSegments>2</nSegments>
+      <length>0.050</length>
+      <nEdges>4</nEdges>
+      <girth>0.0075</girth>
+      <nLeafs>5</nLeafs>
+    </level>
+    <level number="10">
+      <nBranches>0</nBranches>
+      <rotationToRoot>45</rotationToRoot>
+      <nSegments>2</nSegments>
+      <length>0.050</length>
+      <nEdges>4</nEdges>
+      <girth>0.0075</girth>
+      <nLeafs>5</nLeafs>
+    </level>
+  </levels>
+</tree>

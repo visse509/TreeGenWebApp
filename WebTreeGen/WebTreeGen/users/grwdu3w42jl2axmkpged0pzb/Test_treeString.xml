@@ -1,0 +1,13 @@
+<root>
+  <axiomList>
+    <axiom value="asdf" />
+  </axiomList>
+  <productionRuleList>
+    <productionRule value="x">r</productionRule>
+    <productionRule value="l">l</productionRule>
+    <productionRule value="r">r</productionRule>
+    <productionRule value="[">[</productionRule>
+    <productionRule value="]">]</productionRule>
+    <productionRule value="f">f</productionRule>
+  </productionRuleList>
+</root>
